@@ -35,7 +35,7 @@ var tree_structure = {
 							name: "Case 1: 27 Jan 2020",
 							desc: "Chinese national"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -43,7 +43,7 @@ var tree_structure = {
 							name: "Case 28: 16 Mar 2020",
 							desc: "Indian national"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 
 					},
@@ -52,7 +52,7 @@ var tree_structure = {
 							name: "Case 46: 18 Mar 2020",
 							desc: "Linked to #28"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -60,7 +60,7 @@ var tree_structure = {
 							name: "Case 28: 16 Mar 2020",
 							desc: "Italian national"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					}
 				]				
@@ -76,7 +76,7 @@ var tree_structure = {
 							name: "Case 4: 13 Mar 2020",
 							desc: "Returned from Germany"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -84,7 +84,7 @@ var tree_structure = {
 							name: "Case 5: 13 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 
 					},
@@ -93,7 +93,7 @@ var tree_structure = {
 							name: "Case 6: 13 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -101,7 +101,7 @@ var tree_structure = {
 							name: "Case 7: 14 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -109,7 +109,7 @@ var tree_structure = {
 							name: "Case 8: 14 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -117,7 +117,7 @@ var tree_structure = {
 							name: "Case 9: 14 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -125,7 +125,7 @@ var tree_structure = {
 							name: "Case 12: 15 Mar 2020",
 							desc: "Returned from Germany"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -133,7 +133,7 @@ var tree_structure = {
 							name: "Case 13: 15 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -141,7 +141,7 @@ var tree_structure = {
 							name: "Case 14: 15 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -149,7 +149,7 @@ var tree_structure = {
 							name: "Case 15: 15 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -157,7 +157,7 @@ var tree_structure = {
 							name: "Case 16: 15 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -165,7 +165,7 @@ var tree_structure = {
 							name: "Case 17: 15 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -173,7 +173,7 @@ var tree_structure = {
 							name: "Case 18: 15 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -181,7 +181,7 @@ var tree_structure = {
 							name: "Case 19: 16 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -189,7 +189,7 @@ var tree_structure = {
 							name: "Case 20: 16 Mar 2020",
 							desc: "Returned from UK"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -197,7 +197,7 @@ var tree_structure = {
 							name: "Case 23: 16 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -205,7 +205,7 @@ var tree_structure = {
 							name: "Case 24: 16 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -213,7 +213,7 @@ var tree_structure = {
 							name: "Case 25: 16 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -221,7 +221,7 @@ var tree_structure = {
 							name: "Case 26: 16 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -229,7 +229,7 @@ var tree_structure = {
 							name: "Case 27: 16 Mar 2020",
 							desc: "Returned from Singapore, India"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -237,7 +237,7 @@ var tree_structure = {
 							name: "Case 32: 17 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -245,7 +245,7 @@ var tree_structure = {
 							name: "Case 33: 17 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -253,7 +253,7 @@ var tree_structure = {
 							name: "Case 34: 17 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -261,7 +261,7 @@ var tree_structure = {
 							name: "Case 35: 17 Mar 2020",
 							desc: "Returned from UK"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -269,7 +269,7 @@ var tree_structure = {
 							name: "Case 36: 17 Mar 2020",
 							desc: "Returned from Qatar"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -277,7 +277,7 @@ var tree_structure = {
 							name: "Case 37: 17 Mar 2020",
 							desc: "Returned from UK"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -285,7 +285,7 @@ var tree_structure = {
 							name: "Case 38: 17 Mar 2020",
 							desc: "Returned from India"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -293,7 +293,7 @@ var tree_structure = {
 							name: "Case 43: 17 Mar 2020",
 							desc: "Returned from India"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -301,7 +301,7 @@ var tree_structure = {
 							name: "Case 44: 17 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -309,7 +309,7 @@ var tree_structure = {
 							name: "Case 53: 19 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -317,7 +317,7 @@ var tree_structure = {
 							name: "Case 57: 19 Mar 2020",
 							desc: "Returned from Italy, linked to #44, #45, #63"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -325,7 +325,7 @@ var tree_structure = {
 							name: "Case 61: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -333,7 +333,7 @@ var tree_structure = {
 							name: "Case 62: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -341,7 +341,7 @@ var tree_structure = {
 							name: "Case 63: 20 Mar 2020",
 							desc: "Returned from Italy, linked to #44, #45, #57"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -349,7 +349,7 @@ var tree_structure = {
 							name: "Case 67: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -357,7 +357,7 @@ var tree_structure = {
 							name: "Case 68: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -365,7 +365,7 @@ var tree_structure = {
 							name: "Case 69: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -373,7 +373,7 @@ var tree_structure = {
 							name: "Case 70: 20 Mar 2020",
 							desc: "Returned from Pakistan"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -381,7 +381,7 @@ var tree_structure = {
 							name: "Case 72: 20 Mar 2020",
 							desc: "Returned from UK"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -389,7 +389,7 @@ var tree_structure = {
 							name: "Case 74: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -397,7 +397,7 @@ var tree_structure = {
 							name: "Case 75: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -405,7 +405,7 @@ var tree_structure = {
 							name: "Case 76: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -413,7 +413,7 @@ var tree_structure = {
 							name: "Case 77: 20 Mar 2020",
 							desc: "Returned from Italy"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					},
 					{
@@ -421,7 +421,7 @@ var tree_structure = {
 							name: "Case 78: 20 Mar 2020",
 							desc: "Returned from UK"
 						},
-						image: "D:/IHP/Nishani/COVID/programs/airplane.png",
+						image: "https://github.com/NishaniGunawardana/NishaniGunawardana.github.io/blob/master/airplane.png",
                         HTMLclass: "casetype"
 					}
 				]				
