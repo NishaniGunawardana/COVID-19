@@ -37,4 +37,4 @@ body { background: #fff;  font-family: "Helvetica Neue",Helvetica,Arial,sans-ser
 .covid_sl.casetype .node-name { width: 250px; padding-left: 50px; }
 .covid_sl.casetype .node-desc { width: 250px; padding-left: 50px; bottom: 12px; padding-top: 5px; }
 .covid_sl .casetype .node-name { width: 150px; padding-left: 50px; }
-.covid_sl.casetype.bye .node-name { color: #999; }*/
+.covid_sl.casetype.bye .node-name { color: #999; }
