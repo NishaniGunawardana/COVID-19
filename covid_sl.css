@@ -1,0 +1,40 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0; padding:0; }
+table { border-collapse:collapse; border-spacing:0; }
+fieldset,img { border:0; }
+address,caption,cite,code,dfn,em,strong,th,var { font-style:normal; font-weight:normal; }
+caption,th { text-align:left; }
+h1,h2,h3,h4,h5,h6 { font-size:100%; font-weight:normal; }
+q:before,q:after { content:''; }
+abbr,acronym { border:0; }
+
+body { background: #fff;  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
+
+
+/* optional Container STYLES */
+.chart { height: 800px ; width: auto; margin: 0; margin: auto; }
+
+.covid_sl {
+    font-size: 12px;
+    width: 250px;
+}
+
+.covid_sl.slcases { height: 38px; }
+.covid_sl.slcases:hover { background: url('trophy.png') right 0 no-repeat; }
+.covid_sl.slcases .node-name { text-align: left; padding-left: 10px; margin-top: 1px; display: block ; color: black; font-weight: bold;}
+
+.covid_sl .node-name { text-align: left; padding: 2px; white-space: pre; color: blue; }
+.covid_sl .node-desc { text-align: left; padding: 2px; color: #999; }
+
+.covid_sl.casetype .node-title,
+.covid_sl.casetype .node-name,
+.covid_sl.casetype img { position: absolute; top: -8px; }
+.covid_sl.casetype:hover img { width: 20px; top: -12px; }
+
+.covid_sl.casetype { width: 50px; height: 20px; }
+.covid_sl.casetype img { margin: 3px 4px 0 0; left: 25px; }
+.covid_sl.casetype .node-title { margin-top: 3px; }
+
+.covid_sl.casetype .node-name { width: 250px; padding-left: 50px; }
+.covid_sl.casetype .node-desc { width: 250px; padding-left: 50px; bottom: 12px; padding-top: 5px; }
+.covid_sl .casetype .node-name { width: 150px; padding-left: 50px; }
+.covid_sl.casetype.bye .node-name { color: #999; }*/
